@@ -36,7 +36,7 @@ app.get('/', (req, res) => {
       </style>
     </head>
     <body>
-      <h2>Netwatch Network Status</h2>
+      <h2>RSU Bunda Network Status</h2>
       <div id="app" class="grid">Memuat data...</div>
       <script>
         async function loadData() {
